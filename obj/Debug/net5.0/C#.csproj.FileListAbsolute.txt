@@ -1,0 +1,15 @@
+/Users/christopherhess/Prime/C#/bin/Debug/net5.0/C#.deps.json
+/Users/christopherhess/Prime/C#/bin/Debug/net5.0/C#.runtimeconfig.json
+/Users/christopherhess/Prime/C#/bin/Debug/net5.0/C#.runtimeconfig.dev.json
+/Users/christopherhess/Prime/C#/bin/Debug/net5.0/C#.dll
+/Users/christopherhess/Prime/C#/bin/Debug/net5.0/ref/C#.dll
+/Users/christopherhess/Prime/C#/bin/Debug/net5.0/C#.pdb
+/Users/christopherhess/Prime/C#/obj/Debug/net5.0/C#.csproj.AssemblyReference.cache
+/Users/christopherhess/Prime/C#/obj/Debug/net5.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christopherhess/Prime/C#/obj/Debug/net5.0/C#.AssemblyInfoInputs.cache
+/Users/christopherhess/Prime/C#/obj/Debug/net5.0/C#.AssemblyInfo.cs
+/Users/christopherhess/Prime/C#/obj/Debug/net5.0/C#.csproj.CoreCompileInputs.cache
+/Users/christopherhess/Prime/C#/obj/Debug/net5.0/C#.dll
+/Users/christopherhess/Prime/C#/obj/Debug/net5.0/ref/C#.dll
+/Users/christopherhess/Prime/C#/obj/Debug/net5.0/C#.pdb
+/Users/christopherhess/Prime/C#/obj/Debug/net5.0/C#.genruntimeconfig.cache
